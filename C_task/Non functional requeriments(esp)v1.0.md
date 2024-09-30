@@ -62,7 +62,7 @@
 -	El [usuario][definicion] , quiere tener opciones de visualización (modo claro/oscuro) para adaptarlo a sus preferencias dependiendo en el ambiente en el que se encuentra.
 
 
-
+# DEFINICIONES
 - Definición de Intuitiva:
    - Una interfaz o sistema es intuitivo cuando los usuarios pueden usarlo de manera natural y fluida sin necesidad de consultar manuales o guías. Se refiere a la facilidad con la que las personas comprenden su funcionamiento con base en su experiencia previa y sin mucho esfuerzo cognitivo. 
 
